@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- BANNIÈRE - capsule-render (fiable) -->
+<!-- BANNIÈRE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Jonathan%20Agneray&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🔐%20Cybersecurity%20·%20🌐%20Networks%20·%20🚀%20Future%20Engineer&descAlignY=60&descColor=a0c4ff&descSize=18" />
 
-<!-- TEXTE ANIMÉ - readme-typing-svg (fiable) -->
+<!-- TEXTE ANIMÉ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=👨‍💻+Étudiant+BTS+CIEL+2ème+année;🔐+Passionné+de+Cybersécurité;🐳+Docker+%7C+NetBox+%7C+WSL;🌐+Réseaux+%26+Administration+Système;🤖+Intelligence+Artificielle;🚀+Futur+Ingénieur+Informatique" />
 
 <br/>
 
-<!-- BADGES - shields.io + komarev (fiables) -->
-<img src="https://komarev.com/ghpvc/?username=JonathanCybSec&color=58a6ff&style=for-the-badge&label=VISITEURS" />
+<!-- BADGES shields.io uniquement -->
+<img src="https://img.shields.io/badge/BTS_CIEL-2ème_année-58a6ff?style=for-the-badge&logo=graduation-cap" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-En%20formation-22c55e?style=for-the-badge" />
 &nbsp;
@@ -55,14 +55,11 @@ class Jonathan:
 <div align="center">
 
 ### 💻 Langages de programmation
-
-<!-- skillicons.dev (fiable) -->
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,html,css,bash&theme=dark&perline=8" />
 
 <br/><br/>
 
 ### 🔧 Outils & Environnements
-
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark&perline=8" />
 
 </div>
@@ -75,20 +72,20 @@ class Jonathan:
 
 <div align="center">
 
-<!-- github-readme-stats (fiable) -->
+<!-- Streak uniquement - le plus fiable -->
 <a href="https://github.com/JonathanCybSec" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonathanCybSec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170"/>
-</a>
-&nbsp;
-<a href="https://github.com/JonathanCybSec" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanCybSec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanCybSec&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 </a>
 
 <br/><br/>
 
-<!-- streak stats (fiable) -->
+<!-- Stats via instance alternative -->
 <a href="https://github.com/JonathanCybSec" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanCybSec&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonathanCybSec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
+</a>
+&nbsp;
+<a href="https://github.com/JonathanCybSec" target="_blank" rel="noopener noreferrer">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonathanCybSec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </a>
 
 </div>
@@ -100,7 +97,6 @@ class Jonathan:
 ## 📈 &nbsp;Activité récente
 
 <div align="center">
-  <!-- activity graph (fiable) -->
   <a href="https://github.com/JonathanCybSec" target="_blank" rel="noopener noreferrer">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanCybSec&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" />
   </a>
@@ -130,5 +126,5 @@ class Jonathan:
 
 <br/>
 
-<!-- FOOTER - capsule-render (fiable) -->
+<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer&animation=fadeIn" />
