@@ -32,8 +32,6 @@ pythonclass Jonathan:
         "🤖 Intelligence Artificielle",
         "⚙️  Automatisation",
     ]
-
-    fun_fact = "Je code comme je m'entraîne — avec régularité 💪"
 <br/>
 
 🛠️  Stack technique
