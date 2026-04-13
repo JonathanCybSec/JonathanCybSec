@@ -32,6 +32,8 @@ pythonclass Jonathan:
         "🤖 Intelligence Artificielle",
         "⚙️  Automatisation",
     ]
+
+    fun_fact = "Je code comme je m'entraîne — avec régularité 💪"
 <br/>
 
 🛠️  Stack technique
@@ -46,12 +48,10 @@ pythonclass Jonathan:
 
 📌  Projets phares
 <div align="center">
-<a href="https://github.com/JonathanCybSec/netbox-docker" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanCybSec&repo=netbox-docker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
+🔌 Projet📝 Description🛠️ Stacknetbox-dockerPlugin NetBox personnalisé déployé avec Docker sur WSLPython · Docker · Shell
 </div>
 
-🔌 Plugin NetBox personnalisé · 🐳 Docker + PostgreSQL + Redis · 🔒 Sécurité des secrets · 🐍 Python & Shell
+🐳 Architecture complète : NetBox + PostgreSQL + Redis · 🔒 Secrets sécurisés · jamais de .env pushé
 
 <br/>
 
@@ -74,7 +74,7 @@ pythonclass Jonathan:
 📈  Activité récente
 <div align="center">
   <a href="https://github.com/JonathanCybSec" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanCybSec&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanCybSec&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" />
   </a>
 </div>
 <br/>
@@ -95,6 +95,7 @@ pythonclass Jonathan:
 <br/><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Toujours+partant+pour+un+nouveau+défi+🤝;Open+to+collaborations+%26+opportunities" />
 </div>
-<br/>
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer&animation=fadeIn" />
+<br/><br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-0d1117?style=for-the-badge" />
+</div>
