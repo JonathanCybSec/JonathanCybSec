@@ -3,8 +3,8 @@
 <!-- BANNIÈRE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Jonathan%20Agneray&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🔐%20Cybersecurity%20·%20🌐%20Networks%20·%20🚀%20Future%20Engineer&descAlignY=60&descColor=a0c4ff&descSize=18" />
 
-<!-- TEXTE ANIMÉ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=👨‍💻+Étudiant+BTS+CIEL+2ème+année;🔐+Passionné+de+Cybersécurité;🐳+Docker+%7C+NetBox+%7C+WSL;🌐+Réseaux+%26+Administration+Système;🤖+Intelligence+Artificielle;🚀+Futur+Ingénieur+Informatique" />
+<!-- TEXTE ANIMÉ - instance herokuapp -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Etudiant+BTS+CIEL+2eme+annee;Passionne+de+Cybersecurite;Docker+%7C+NetBox+%7C+WSL;Reseaux+%26+Administration+Systeme;Intelligence+Artificielle;Futur+Ingenieur+Informatique" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Status-En%20formation-22c55e?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/📍-Hauts--de--France-3b82f6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Localisation-Hauts--de--France-3b82f6?style=for-the-badge" />
 
 </div>
 
