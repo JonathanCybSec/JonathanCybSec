@@ -36,7 +36,7 @@ class Jonathan:
 <div align="center">
 
 ### Langages
-<img src="https://skillicons.dev/icons?i=python,html,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,bash,c,cpp,c#&theme=dark" />
 
 ### Outils & Environnements
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" />
@@ -84,10 +84,10 @@ class Jonathan:
 
 <div align="center">
 
-<a href="mailto:TON_EMAIL@gmail.com">
+<a href="mailto:jonathan.agneray13@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/TON_PROFIL_LINKEDIN">
+<a href="https://www.linkedin.com/in/agneray-jonathan/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/JonathanCybSec">
